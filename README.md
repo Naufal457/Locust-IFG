@@ -1,6 +1,3 @@
-Berikut ini adalah contoh **README** dan **description** untuk repositori *Locust Performance Test* yang kamu gunakan di proyek iFG Life, khusus untuk *fraud checking API*. Kamu bisa sesuaikan bagian detail teknis (endpoint, parameter, dsb.) sesuai kebutuhan nanti.
-
----
 
 ### 📝 **Repository Description (untuk GitHub repo)**
 
@@ -87,4 +84,3 @@ docker run -p 8089:8089 fraud-check-test
 - Error rates
 - Throughput under stress
 
-etes?
